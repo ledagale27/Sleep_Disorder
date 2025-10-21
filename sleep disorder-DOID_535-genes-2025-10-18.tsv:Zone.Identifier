@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.alliancegenome.org/disease/DOID:535
+HostUrl=https://www.alliancegenome.org/api/disease/DOID:535/genes/download?page=1&limit=10&sortBy=
